@@ -18,8 +18,10 @@ The **Statistics** section offers users a range of insights to help them underst
 
 ## 2. Personnel
 The **Personnel** section comprises an employee directory with detailed information and job descriptions for all staff members. This section is designed to simplify human resources management. Users can edit personnel details, add new employees through the "Add Employee" feature, and modify the responsibilities of existing staff. The "Personnel Communication" feature allows users to establish communication with employees.
+![Personel](images/Personel.png) 
 ## 3. Projects
 The **Projects** section provides an overview of all ongoing projects. The "Project List" segment displays project names, descriptions, and schedules. Users have the ability to add new projects, edit existing ones, or remove projects. Additionally, each project can be assigned one or multiple tasks.
+![Project](images/Project.png)
 ## 4. Project Assignment
 The *Project Assignment* section details the tasks associated with each project. This section includes information such as task names, descriptions, responsible individuals, and due dates. Users can edit tasks, create new ones, and update task statuses.
 
@@ -51,8 +53,10 @@ Uygulamanın arayüzü, ana sayfadaki gezinme menüsü üzerinden erişilebilen 
 
 ## 2. Personel
 **Personel** bölümü, tüm personel bilgilerini ve iş tanımlarını içeren bir çalışan dizini içerir. Bu bölüm, insan kaynakları yönetimini kolaylaştırmak için tasarlanmıştır. Kullanıcılar, personel bilgilerini düzenleyebilir, "Yeni Çalışan Ekle" özelliğiyle yeni personel ekleyebilir ve mevcut personelin sorumluluklarını değiştirebilirler. Aynı zamanda "Personel İletişim" özelliğiyle personelle iletişim kurabilirler.
+![Personel](images/Personel.png) 
 ## 3. Projeler
 **Projeler** bölümü, tüm devam eden projelerin bir özetini sunar. "Proje Listesi" bölümü, proje adları, açıklamaları ve takvimleri gibi bilgileri görüntüler. Kullanıcılar yeni projeler ekleyebilir, mevcut projeleri düzenleyebilir veya projeleri kaldırabilirler. Ayrıca her projeye bir veya birden fazla görev atanabilir.
+![Project](images/Project.png)
 ## 4. Proje Atama
 **Proje Atama** bölümü, her projeye ait görevleri detaylandırır. Bu bölüm, görev adları, açıklamaları, sorumlu kişiler ve bitiş tarihleri gibi bilgileri içerir. Kullanıcılar görevleri düzenleyebilir, yeni görevler oluşturabilir ve görev durumlarını güncelleyebilirler.
 
