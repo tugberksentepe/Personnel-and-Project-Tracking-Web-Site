@@ -1,5 +1,6 @@
 # ASP.NET MVC 5 Project: Project and Personnel Management Application [EN]
-
+![LoginScreen](images/LoginScreen.png)
+![Dashboard](images/Dashboard.png)
 ## Project Overview
 This project aims to provide a comprehensive project and personnel management solution using the ASP.NET MVC 5 framework. The application offers a streamlined workflow for businesses, allowing them to efficiently manage project tracking and personnel information from a centralized platform.
 The application's interface is structured around five main sections, accessible through the navigation menu on the home page: **Overview, Statistics, Personnel, Projects, and Live Support**. These sections offer users access to different aspects of the application, encompassing its full range of functionalities. Tables in the application support various operations such as copying, exporting to Excel or PDF, and printing.
@@ -29,7 +30,8 @@ The *Live Support* section offers users real-time assistance for any application
 -------------------------------------------------------------------------------------------------
 
 # ASP.NET MVC 5 Projesi: Proje ve Personel Yönetim Uygulaması [TR]
-
+![LoginScreen](images/LoginScreen.png)
+![Dashboard](images/Dashboard.png)
 ## Project Overview
 Bu proje, ASP.NET MVC 5 çerçevesi kullanılarak oluşturulan bir proje ve personel yönetimi çözümü sunmayı amaçlamaktadır. Uygulama, işletmelerin projeleri takip etme ve personel bilgilerini merkezi bir platformdan etkin bir şekilde yönetmelerini sağlar.
 
